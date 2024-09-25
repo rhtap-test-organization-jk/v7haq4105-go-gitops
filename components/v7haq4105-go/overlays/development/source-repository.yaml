@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v7haq4105-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/v7haq4105-go
